@@ -1,0 +1,18 @@
+{
+    "messages": [
+        {
+            "type": "human",
+            "content": "i was having pain in my chest"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Chest Pain'.\n\nWhat would you like to do next?\n1. Ask a follow-up question.\n2. Find a doctor for this issue.\n3. Analyze a different symptom.\n4. Summarize a medical report."
+        }
+    ],
+    "health_issue": "Chest Pain",
+    "extracted_text": "",
+    "image_path": "",
+    "session_id": "1b81ad47-43a6-4cc8-b9d7-b743a16574b2",
+    "created_at": "139768071481955658",
+    "updated_at": "139768071481955659"
+}

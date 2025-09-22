@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "type": "human",
+            "content": "i was having pain in my chest"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Chest Pain'. Would you like to ask any further questions about this?"
+        },
+        {
+            "type": "human",
+            "content": "is their any thing to worry about"
+        },
+        {
+            "type": "ai",
+            "content": "system/text-to-speech\n        Treatment depends on the cause of the pain. Get immediate medical care if you have chest pain that does not go away, crushing pain or pressure in the chest, or chest pain along with nausea, sweating, dizziness or shortness of breath.\n        \nThis answer is based entirely on the context provided above. For more information about your specific health issues, consult a professional healthcare provider. //"
+        }
+    ],
+    "health_issue": "Chest Pain",
+    "extracted_text": ""
+}

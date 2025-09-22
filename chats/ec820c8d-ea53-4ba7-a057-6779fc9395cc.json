@@ -1,0 +1,19 @@
+{
+    "session_id": "ec820c8d-ea53-4ba7-a057-6779fc9395cc",
+    "messages": [
+        {
+            "type": "human",
+            "content": "i was having pain in my chest\n"
+        },
+        {
+            "type": "ai",
+            "content": "I received your message: i was having pain in my chest\n"
+        }
+    ],
+    "health_issue": "",
+    "extracted_text": "",
+    "image_path": "",
+    "title": "New Conversation",
+    "created_at": "139768062277121644",
+    "updated_at": "139768062277121645"
+}

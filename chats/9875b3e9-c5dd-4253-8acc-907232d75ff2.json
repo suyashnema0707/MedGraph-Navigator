@@ -1,0 +1,19 @@
+{
+    "session_id": "9875b3e9-c5dd-4253-8acc-907232d75ff2",
+    "messages": [
+        {
+            "type": "human",
+            "content": "Uploaded file: report.png"
+        },
+        {
+            "type": "ai",
+            "content": "I've received your file 'report.png'. Processing medical report..."
+        }
+    ],
+    "health_issue": "",
+    "extracted_text": "",
+    "image_path": "",
+    "title": "New Conversation",
+    "created_at": "139768061019161982",
+    "updated_at": "139768061019161983"
+}

@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "type": "human",
+            "content": "i was having headache"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Headache'. Would you like to ask any further questions about this?"
+        },
+        {
+            "type": "human",
+            "content": "can you provide the details of doctors available in bhopal regarding that issue"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Ghosal hematodiaphyseal dysplasia'. Would you like to ask any further questions about this?"
+        }
+    ],
+    "health_issue": "Ghosal hematodiaphyseal dysplasia",
+    "extracted_text": ""
+}

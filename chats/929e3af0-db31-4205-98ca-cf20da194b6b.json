@@ -1,0 +1,15 @@
+{
+    "messages": [
+        {
+            "type": "human",
+            "content": "### **Sample Medical Report**\n**Patient Name: ** John Smith\n**Date of Report: ** 2025-08-12\n**Patient ID: ** JS12345\n#### **Lab Results**\n*\n**Blood Pressure: ** 135/85 mmHg\n**Total Cholesterol:** 220 mg/dL\n***LDL (Bad) Cholesterol:** 145 mg/dL\n*\n**HDL (Good) Cholesterol:** 45 mg/dL\n**Triglycerides:** 180 mg/dL\n**Hemoglobin A1c (A1c): ** 6.8 %\n* **White Blood Cell (WBC):** 8.2 x10^9/L\n#### **Doctor's Notes / Impression**\n**Subjective:** Patient reports feeling more fatigued than usual over the past few months. Denies chest pain but mentions occasional shortness of breath after moderate exertion, like climbing stairs.\n**Objective:** Physical exam is largely unremarkable. Heart and lung sounds are clear.\n**Impression:** The patient's lab results are concerning for pre-diabetes and hyperlipidemia. The reported fatigue and shortness of breath warrant a follow-up consultation to rule out any underlying cardiac issues, though the current physical exam is normal. Recommend lifestyle and dietary counseling."
+        },
+        {
+            "type": "ai",
+            "content": "I'm sorry, I encountered an error while summarizing the report. The format of the report might be unusual. Please try again."
+        }
+    ],
+    "health_issue": "",
+    "extracted_text": "### **Sample Medical Report**\n**Patient Name: ** John Smith\n**Date of Report: ** 2025-08-12\n**Patient ID: ** JS12345\n#### **Lab Results**\n*\n**Blood Pressure: ** 135/85 mmHg\n**Total Cholesterol:** 220 mg/dL\n***LDL (Bad) Cholesterol:** 145 mg/dL\n*\n**HDL (Good) Cholesterol:** 45 mg/dL\n**Triglycerides:** 180 mg/dL\n**Hemoglobin A1c (A1c): ** 6.8 %\n* **White Blood Cell (WBC):** 8.2 x10^9/L\n#### **Doctor's Notes / Impression**\n**Subjective:** Patient reports feeling more fatigued than usual over the past few months. Denies chest pain but mentions occasional shortness of breath after moderate exertion, like climbing stairs.\n**Objective:** Physical exam is largely unremarkable. Heart and lung sounds are clear.\n**Impression:** The patient's lab results are concerning for pre-diabetes and hyperlipidemia. The reported fatigue and shortness of breath warrant a follow-up consultation to rule out any underlying cardiac issues, though the current physical exam is normal. Recommend lifestyle and dietary counseling.",
+    "image_path": "uploads\\report.png"
+}

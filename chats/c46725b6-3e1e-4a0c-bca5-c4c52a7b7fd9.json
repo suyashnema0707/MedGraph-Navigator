@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "type": "human",
+            "content": "i was having pain in my chest"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Heart Attack'.\n\nWhat would you like to do next?\n1. Ask a follow-up question about this issue.\n2. Find a doctor for this issue.\n3. Analyze a different symptom.\n4. Summarize a medical report."
+        },
+        {
+            "type": "human",
+            "content": "2"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Diabetes'.\n\nWhat would you like to do next?\n1. Ask a follow-up question about this issue.\n2. Find a doctor for this issue.\n3. Analyze a different symptom.\n4. Summarize a medical report."
+        }
+    ],
+    "health_issue": "Diabetes",
+    "extracted_text": ""
+}

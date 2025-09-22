@@ -1,0 +1,62 @@
+{
+    "messages": [
+        {
+            "type": "human",
+            "content": "i was having nose bleeding"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Disseminated Intravascular Coagulation'. Would you like to ask any further questions about this?"
+        },
+        {
+            "type": "human",
+            "content": "what is the treatment possible"
+        },
+        {
+            "type": "ai",
+            "content": "Based on the context, for people who have acute DIC, treatment may include blood transfusions, medicines, and oxygen therapy."
+        },
+        {
+            "type": "human",
+            "content": "i was having an leg pain"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Restless Legs'. Would you like to ask any further questions about this?"
+        },
+        {
+            "type": "human",
+            "content": "what are its treament?"
+        },
+        {
+            "type": "ai",
+            "content": "According to the context, if lifestyle changes don't work, medicines may reduce the symptoms of RLS."
+        },
+        {
+            "type": "human",
+            "content": "what are its caues"
+        },
+        {
+            "type": "ai",
+            "content": "In most cases, there is no known cause for Restless Legs Syndrome (RLS). In other cases, RLS can be caused by a disease or condition, such as anemia or pregnancy. Some medicines can also cause temporary RLS."
+        },
+        {
+            "type": "human",
+            "content": "can you provide the details of nearest specalist doctor regarding this issue my location is bhopal"
+        },
+        {
+            "type": "ai",
+            "content": "I'm sorry, but it seems like we're having a bit of trouble connecting to our database. Unfortunately, I don't have any doctor information available at the moment.\n\nHowever, I can suggest some options for you to find nearby doctors:\n\n1. **Google Search**: You can try searching for \"doctors near me\" or \"primary care physicians near my location\" on Google to find a list of nearby medical professionals.\n2. **Healthcare Websites**: You can visit reputable healthcare websites such as Healthgrades, Zocdoc, or RateMDs to search for doctors in your area.\n3. **Ask for Referrals**: Reach out to friends, family members, or coworkers for recommendations on doctors they have seen and liked.\n\n**Disclaimer:** Please note that the information provided by these sources may not be up-to-date or comprehensive. It's essential to do your own research and verify any doctor's credentials before making a decision.\n\n**Safety Reminder:** In case of a medical emergency, please contact local emergency services immediately (such as 911 in the US) for assistance. Do not rely solely on this list for urgent care situations.\n\nI hope this helps! If you have any other questions or concerns, feel free to ask."
+        },
+        {
+            "type": "human",
+            "content": "could you please retry"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'isolated Duane retraction syndrome'. Would you like to ask any further questions about this?"
+        }
+    ],
+    "health_issue": "isolated Duane retraction syndrome",
+    "extracted_text": ""
+}

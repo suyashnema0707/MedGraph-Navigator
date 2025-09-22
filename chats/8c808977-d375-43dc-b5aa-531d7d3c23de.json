@@ -1,0 +1,14 @@
+{
+    "messages": [
+        {
+            "type": "human",
+            "content": "i was having pain in my chest"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Angina'. Would you like to ask any further questions about this?"
+        }
+    ],
+    "health_issue": "Angina",
+    "extracted_text": ""
+}

@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "type": "human",
+            "content": "i was having pain in my chest?"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Chest Pain'. Would you like to ask any further questions about this?"
+        },
+        {
+            "type": "human",
+            "content": "is their any thing to worry about"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Adult Acute Lymphoblastic Leukemia'. Would you like to ask any further questions about this?"
+        }
+    ],
+    "health_issue": "Adult Acute Lymphoblastic Leukemia",
+    "extracted_text": ""
+}

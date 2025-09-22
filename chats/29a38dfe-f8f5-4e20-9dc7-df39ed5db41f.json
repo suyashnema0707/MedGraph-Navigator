@@ -1,0 +1,38 @@
+{
+    "messages": [
+        {
+            "type": "human",
+            "content": "i  was having pain in my chest"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Angina'.\n\nWhat would you like to do next?\n1. Ask a follow-up question about this issue.\n2. Find a doctor for this issue.\n3. Analyze a different symptom.\n4. Summarize a medical report."
+        },
+        {
+            "type": "human",
+            "content": "2"
+        },
+        {
+            "type": "ai",
+            "content": "I had trouble understanding the request. Could you please rephrase it to include both the symptoms and a specific location?"
+        },
+        {
+            "type": "human",
+            "content": "symtom:Angina and Location:Bhopal"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Angina'.\n\nWhat would you like to do next?\n1. Ask a follow-up question about this issue.\n2. Find a doctor for this issue.\n3. Analyze a different symptom.\n4. Summarize a medical report."
+        },
+        {
+            "type": "human",
+            "content": "find doctor avaiable in bhopal"
+        },
+        {
+            "type": "ai",
+            "content": "I had trouble understanding the request. Could you please rephrase it to include both the symptoms and a specific location?"
+        }
+    ],
+    "health_issue": "Angina",
+    "extracted_text": ""
+}

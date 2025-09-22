@@ -1,0 +1,15 @@
+{
+    "messages": [
+        {
+            "type": "human",
+            "content": "Analyze my health symptoms"
+        },
+        {
+            "type": "ai",
+            "content": "Based on your symptoms, the potential issue is 'Viral Hepatitis: A through E and Beyond'.\n\nWhat would you like to do next?\n1. Ask a follow-up question about this issue.\n2. Find a doctor for this issue.\n3. Analyze a different symptom.\n4. Summarize a medical report."
+        }
+    ],
+    "health_issue": "Viral Hepatitis: A through E and Beyond",
+    "extracted_text": "",
+    "image_path": ""
+}
