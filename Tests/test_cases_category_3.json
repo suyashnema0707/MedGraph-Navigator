@@ -1,0 +1,502 @@
+[
+  {
+    "id": "dc_001",
+    "question": "I'm really scared about my test results. What should I do?",
+    "expected_answer": "It's completely understandable to feel concerned about test results. The most important next step is to schedule a follow-up with your healthcare provider to discuss the findings and create a management plan."
+  },
+  {
+    "id": "dc_002",
+    "question": "I'm worried I have cancer. What are the signs?",
+    "expected_answer": "It's natural to be worried about serious health issues. While there are many potential signs of cancer, it's not possible to diagnose based on symptoms alone. The best course of action is to consult with a doctor who can perform a proper evaluation."
+  },
+  {
+    "id": "dc_003",
+    "question": "I'm in a lot of pain. What can I do?",
+    "expected_answer": "I'm sorry to hear you're in pain. For severe or persistent pain, it's important to seek medical attention to determine the cause. In the meantime, over-the-counter pain relievers may help, but please follow the package instructions."
+  },
+  {
+    "id": "dc_004",
+    "question": "I'm feeling very anxious and can't sleep. What's wrong with me?",
+    "expected_answer": "Anxiety and sleep problems can have many causes, from stress to underlying medical conditions. It's a good idea to speak with a healthcare professional who can help you understand what's going on and suggest ways to manage it."
+  },
+  {
+    "id": "dc_005",
+    "question": "I'm so tired all the time. Is there something seriously wrong?",
+    "expected_answer": "Persistent fatigue can be a symptom of many different things, some simple and some more complex. The best way to find out the cause is to see a doctor for a check-up and some routine blood tests."
+  },
+  {
+    "id": "dc_006",
+    "question": "I have a lump. Should I be worried?",
+    "expected_answer": "Discovering a new lump can be concerning. While many lumps are benign, it's always important to have any new or changing lump examined by a doctor to rule out anything serious."
+  },
+  {
+    "id": "dc_007",
+    "question": "I'm having trouble breathing. What should I do?",
+    "expected_answer": "Difficulty breathing can be a sign of a serious medical issue. If you are experiencing severe shortness of breath, you should seek immediate medical attention by calling your local emergency services."
+  },
+  {
+    "id": "dc_008",
+    "question": "I'm having chest pains. Is it a heart attack?",
+    "expected_answer": "Chest pain is a symptom that should always be taken seriously, as it can be a sign of a heart attack. It is critical to seek emergency medical care immediately to get a proper diagnosis."
+  },
+  {
+    "id": "dc_009",
+    "question": "I'm feeling dizzy and lightheaded. What could it be?",
+    "expected_answer": "Dizziness and lightheadedness can be caused by a variety of factors, from dehydration to more serious conditions. If these symptoms are persistent or severe, it's important to consult with a healthcare provider."
+  },
+  {
+    "id": "dc_010",
+    "question": "I have a rash that won't go away. What should I do?",
+    "expected_answer": "A persistent rash can be a sign of an allergy, an infection, or a skin condition. A doctor or dermatologist can help identify the cause and recommend the right treatment."
+  },
+  {
+    "id": "dc_011",
+    "question": "I'm having trouble with my memory. Is it Alzheimer's?",
+    "expected_answer": "Memory problems can be concerning, but they have many potential causes. While Alzheimer's is one possibility, it's important to see a doctor for a thorough evaluation to determine the cause."
+  },
+  {
+    "id": "dc_012",
+    "question": "I'm losing weight without trying. Is that bad?",
+    "expected_answer": "Unexplained weight loss can sometimes be a sign of an underlying medical condition. It's a good idea to discuss this with your doctor to find out what's causing it."
+  },
+  {
+    "id": "dc_013",
+    "question": "I have blood in my stool. What does that mean?",
+    "expected_answer": "Seeing blood in your stool is a symptom that should be evaluated by a doctor. It can have many causes, so a proper diagnosis is important."
+  },
+  {
+    "id": "dc_014",
+    "question": "I'm having trouble urinating. What could be the problem?",
+    "expected_answer": "Difficulty with urination can be a sign of several conditions, such as an infection or an enlarged prostate in men. It's best to see a doctor for an accurate diagnosis."
+  },
+  {
+    "id": "dc_015",
+    "question": "I have a persistent cough. Should I see a doctor?",
+    "expected_answer": "A cough that lasts for several weeks is a good reason to see a doctor. They can help determine the cause and recommend the appropriate treatment."
+  },
+  {
+    "id": "dc_016",
+    "question": "I'm having vision problems. What should I do?",
+    "expected_answer": "Any sudden changes in your vision should be evaluated by an eye doctor (ophthalmologist) as soon as possible to rule out any serious conditions."
+  },
+  {
+    "id": "dc_017",
+    "question": "I have a ringing in my ears. What is it?",
+    "expected_answer": "Ringing in the ears, or tinnitus, can have many causes. An audiologist or an ear, nose, and throat (ENT) doctor can help determine the cause and suggest ways to manage it."
+  },
+  {
+    "id": "dc_018",
+    "question": "I'm having trouble sleeping. What can I do?",
+    "expected_answer": "Chronic sleep problems can have a big impact on your health. It's a good idea to talk to your doctor about it, as they can help identify the cause and recommend solutions."
+  },
+  {
+    "id": "dc_019",
+    "question": "I'm feeling really down and have no energy. What's wrong?",
+    "expected_answer": "Feeling down and having low energy can be signs of depression or other medical conditions. It's important to speak with a healthcare professional who can provide support and guidance."
+  },
+  {
+    "id": "dc_020",
+    "question": "I'm worried about a family member's health. What should I do?",
+    "expected_answer": "It's caring of you to be concerned. The best thing you can do is encourage them to see a doctor for a professional opinion. You can also offer to go with them for support."
+  },
+  {
+    "id": "dc_021",
+    "question": "I'm afraid of going to the doctor. What can I do?",
+    "expected_answer": "It's very common to feel anxious about visiting the doctor. It might help to write down your questions beforehand or bring a trusted friend or family member with you for support."
+  },
+  {
+    "id": "dc_022",
+    "question": "I don't understand my diagnosis. Can you explain it?",
+    "expected_answer": "It's important that you fully understand your health situation. The best person to explain your diagnosis in detail is the doctor who provided it. Don't hesitate to ask them for a clearer explanation."
+  },
+  {
+    "id": "dc_023",
+    "question": "I'm not sure if I should get a second opinion. What do you think?",
+    "expected_answer": "Getting a second opinion is a very common and often wise decision, especially for a serious diagnosis. It can provide peace of mind and ensure you have all the information you need to make decisions."
+  },
+  {
+    "id": "dc_024",
+    "question": "I'm having side effects from my medication. What should I do?",
+    "expected_answer": "If you're experiencing side effects from a medication, it's important to contact the prescribing doctor or your pharmacist. They can advise you on whether to continue the medication or if an adjustment is needed."
+  },
+  {
+    "id": "dc_025",
+    "question": "I missed a dose of my medication. What should I do?",
+    "expected_answer": "The best course of action depends on the specific medication. You should consult the information provided with your prescription or call your pharmacist or doctor for guidance."
+  },
+  {
+    "id": "dc_026",
+    "question": "I can't afford my medication. What are my options?",
+    "expected_answer": "Cost can be a major barrier to healthcare. You should speak with your doctor or pharmacist, as they may know about patient assistance programs, generic alternatives, or other options to help make your medication more affordable."
+  },
+  {
+    "id": "dc_027",
+    "question": "I'm worried about an upcoming surgery. Is it safe?",
+    "expected_answer": "It's completely normal to feel anxious before surgery. Your surgical team is the best source of information about the procedure and its risks. Be sure to discuss all of your concerns with your surgeon beforehand."
+  },
+  {
+    "id": "dc_028",
+    "question": "How do I prepare for my surgery?",
+    "expected_answer": "Your doctor's office will provide you with specific pre-operative instructions. It's very important to follow these carefully, as they are designed to ensure your safety and the success of the procedure."
+  },
+  {
+    "id": "dc_029",
+    "question": "What is the recovery like after surgery?",
+    "expected_answer": "Recovery time and process can vary greatly depending on the type of surgery. Your surgeon will give you a detailed post-operative plan, including information on pain management, activity restrictions, and follow-up appointments."
+  },
+  {
+    "id": "dc_030",
+    "question": "I'm not feeling better after my treatment. What should I do?",
+    "expected_answer": "If you're not seeing the improvement you expected from a treatment, it's important to let your doctor know. They may need to adjust your treatment plan or investigate other possibilities."
+  },
+  {
+    "id": "dc_031",
+    "question": "I'm feeling overwhelmed by my health problems. Who can I talk to?",
+    "expected_answer": "Managing a health condition can be very challenging. Speaking with a mental health professional, such as a counselor or therapist, can be incredibly helpful. Your primary care doctor can often provide a referral."
+  },
+  {
+    "id": "dc_032",
+    "question": "My family doesn't understand what I'm going through. How can I explain it to them?",
+    "expected_answer": "It can be difficult for others to understand a health condition they haven't experienced. It might be helpful to share reliable information from patient advocacy groups or even invite a family member to a doctor's appointment with you."
+  },
+  {
+    "id": "dc_033",
+    "question": "I'm looking for a support group. How can I find one?",
+    "expected_answer": "Support groups can be a wonderful resource. Hospitals, patient advocacy organizations (like the American Cancer Society or the American Heart Association), and online communities are great places to find a group for your specific condition."
+  },
+  {
+    "id": "dc_034",
+    "question": "I'm worried about the cost of my medical care. What can I do?",
+    "expected_answer": "Medical costs can be a significant source of stress. The billing department at your hospital or clinic is the best place to start. They can provide information on payment plans, financial assistance programs, and insurance coverage."
+  },
+  {
+    "id": "dc_035",
+    "question": "I don't have health insurance. Where can I get care?",
+    "expected_answer": "There are options available for those without insurance. Community health centers, public hospitals, and government health programs are designed to provide affordable care. You can search for these resources in your local area."
+  },
+  {
+    "id": "dc_036",
+    "question": "I'm not happy with my doctor. Should I switch?",
+    "expected_answer": "Having a good relationship with your doctor is very important. If you feel that you're not getting the care you need, you always have the right to seek a new provider who is a better fit for you."
+  },
+  {
+    "id": "dc_037",
+    "question": "How do I find a good doctor?",
+    "expected_answer": "Finding the right doctor can take some research. Recommendations from friends or your primary care physician are a great start. You can also check online reviews and ensure the doctor is board-certified in their specialty."
+  },
+  {
+    "id": "dc_038",
+    "question": "What should I ask my doctor at my next appointment?",
+    "expected_answer": "It's a great idea to prepare for your appointments. Consider writing down a list of your top three concerns, any symptoms you're experiencing, and all the medications you're currently taking."
+  },
+  {
+    "id": "dc_039",
+    "question": "I'm embarrassed to talk to my doctor about a certain issue. What should I do?",
+    "expected_answer": "It's understandable to feel embarrassed about personal health topics, but remember that your doctor is a professional who has heard it all before. Being open and honest is the best way to get the care you need."
+  },
+  {
+    "id": "dc_040",
+    "question": "My doctor seems rushed. How can I get my questions answered?",
+    "expected_answer": "It can be challenging when appointments feel rushed. It often helps to state your most important question at the very beginning of the visit to ensure it gets addressed. You can also ask if it's possible to speak with a nurse after the appointment."
+  },
+  {
+    "id": "dc_041",
+    "question": "I'm worried about a public health issue, like the flu. How can I protect myself?",
+    "expected_answer": "Public health concerns are valid. The best ways to protect yourself from respiratory illnesses include frequent hand washing, avoiding touching your face, and getting recommended vaccinations. Following guidance from public health organizations is also key."
+  },
+  {
+    "id": "dc_042",
+    "question": "Is it safe to travel with my medical condition?",
+    "expected_answer": "That's an important question to ask. The best person to advise you on the safety of travel is your own doctor, who understands your specific health situation."
+  },
+  {
+    "id": "dc_043",
+    "question": "I'm trying to eat healthier. Where should I start?",
+    "expected_answer": "That's a great goal! A good starting point is to focus on whole foods like fruits, vegetables, and lean proteins, while reducing processed foods and sugary drinks. A registered dietitian can provide personalized advice."
+  },
+  {
+    "id": "dc_044",
+    "question": "I want to start exercising. What's the best way?",
+    "expected_answer": "It's wonderful that you're looking to be more active. It's always a good idea to check with your doctor before beginning a new exercise program. They can help you choose activities that are safe and appropriate for you."
+  },
+  {
+    "id": "dc_045",
+    "question": "I'm trying to lose weight. Do you have any tips?",
+    "expected_answer": "Sustainable weight loss is often best achieved through a combination of a balanced diet and regular physical activity. It's a gradual process, and it's a good idea to work with a healthcare provider to create a safe and effective plan."
+  },
+  {
+    "id": "dc_046",
+    "question": "I'm trying to quit smoking. It's so hard.",
+    "expected_answer": "Quitting smoking is one of the most challenging but rewarding things you can do for your health. There are many resources available to help, including counseling, nicotine replacement therapy, and prescription medications. Your doctor can help you find the right approach."
+  },
+  {
+    "id": "dc_047",
+    "question": "I think I'm drinking too much alcohol. How can I cut back?",
+    "expected_answer": "Recognizing that you want to make a change is an important first step. There are many strategies for cutting back, and support is available. Speaking with your doctor or a counselor can be very helpful."
+  },
+  {
+    "id": "dc_048",
+    "question": "I'm under a lot of stress. How can I manage it?",
+    "expected_answer": "Stress can have a significant impact on your health. Techniques like regular exercise, mindfulness, and ensuring you get enough sleep can be very effective. If stress feels unmanageable, a mental health professional can provide additional support."
+  },
+  {
+    "id": "dc_049",
+    "question": "I'm not sure if my child's symptoms are serious. What should I do?",
+    "expected_answer": "It can be very stressful when a child is sick. It's always best to err on the side of caution. You should contact your child's pediatrician or a local urgent care center for advice."
+  },
+  {
+    "id": "dc_050",
+    "question": "What vaccines does my child need?",
+    "expected_answer": "Vaccination schedules can vary slightly, but your child's pediatrician will have a record of what they've received and can provide you with the recommended schedule for their age."
+  },
+  {
+    "id": "dc_051",
+    "question": "My child has a fever. When should I worry?",
+    "expected_answer": "Fevers in children can be concerning. It's generally recommended to call a doctor if a fever is very high, lasts for more than a couple of days, or is accompanied by other serious symptoms. Your pediatrician can give you specific guidelines."
+  },
+  {
+    "id": "dc_052",
+    "question": "I'm worried about my aging parent's health. How can I help?",
+    "expected_answer": "Supporting an aging parent is a loving and important role. You can help by assisting with doctor's appointments, helping to manage medications, and ensuring their living environment is safe. It's also important to make sure you have support for yourself as a caregiver."
+  },
+  {
+    "id": "dc_053",
+    "question": "How do I know if my parent needs a caregiver?",
+    "expected_answer": "Signs that an older adult may need more support include difficulty with daily tasks like cooking and bathing, frequent falls, or memory problems. A geriatric care manager or your parent's doctor can help with an assessment."
+  },
+  {
+    "id": "dc_054",
+    "question": "What is palliative care?",
+    "expected_answer": "Palliative care is a specialized medical care for people with serious illnesses. It focuses on providing relief from the symptoms and stress of the illness, with the goal of improving quality of life for both the patient and the family."
+  },
+  {
+    "id": "dc_055",
+    "question": "What is hospice care?",
+    "expected_answer": "Hospice care is a type of care that focuses on the quality of life for people who are experiencing an advanced, life-limiting illness. The goal is to provide comfort and support, rather than curative treatment."
+  },
+  {
+    "id": "dc_056",
+    "question": "What is an advance directive?",
+    "expected_answer": "An advance directive is a legal document that allows you to spell out your decisions about end-of-life care ahead of time. It's a way to let your wishes be known if you are unable to speak for yourself."
+  },
+  {
+    "id": "dc_057",
+    "question": "I'm a caregiver and I'm feeling burned out. What can I do?",
+    "expected_answer": "Caregiver burnout is very real and very serious. It's essential to take care of yourself. Seeking respite care, joining a caregiver support group, and making time for your own interests are all important steps."
+  },
+  {
+    "id": "dc_058",
+    "question": "I'm worried about getting a genetic disease that runs in my family.",
+    "expected_answer": "That's a valid concern. A genetic counselor is a healthcare professional who can help you understand your risk, discuss the pros and cons of genetic testing, and provide support."
+  },
+  {
+    "id": "dc_059",
+    "question": "What is genetic testing?",
+    "expected_answer": "Genetic testing is a type of medical test that identifies changes in chromosomes, genes, or proteins. The results can confirm or rule out a suspected genetic condition or help determine a person's chance of developing or passing on a genetic disorder."
+  },
+  {
+    "id": "dc_060",
+    "question": "I'm pregnant and I'm worried about my baby's health.",
+    "expected_answer": "It's natural to have concerns during pregnancy. Your obstetrician is your best resource for information and reassurance. Regular prenatal care is the most important way to monitor your health and the health of your baby."
+  },
+  {
+    "id": "dc_061",
+    "question": "What are the signs of labor?",
+    "expected_answer": "The signs of labor can vary, but they often include regular contractions that get stronger and closer together, a 'bloody show,' and your water breaking. Your doctor or midwife will give you specific instructions on when to go to the hospital."
+  },
+  {
+    "id": "dc_062",
+    "question": "I'm having trouble breastfeeding. Is that normal?",
+    "expected_answer": "Breastfeeding can be challenging, and it's very normal to need some help. A lactation consultant is a specialist who can provide expert guidance and support to help you and your baby succeed."
+  },
+  {
+    "id": "dc_063",
+    "question": "I'm feeling sad after having a baby. Is it the 'baby blues'?",
+    "expected_answer": "Many new mothers experience the 'baby blues,' but if feelings of sadness are severe or persistent, it could be postpartum depression. It's very important to speak with your doctor about how you're feeling."
+  },
+  {
+    "id": "dc_064",
+    "question": "I'm worried about my teenager's mental health.",
+    "expected_answer": "The teenage years can be a challenging time for mental health. If you have concerns, the best first step is to talk to your teen and their doctor or a school counselor. Professional help can make a big difference."
+  },
+  {
+    "id": "dc_065",
+    "question": "How do I talk to my kids about a serious illness in the family?",
+    "expected_answer": "That's a very difficult conversation to have. It's generally best to be honest and provide age-appropriate information. A child psychologist or family therapist can offer guidance on how to approach the topic."
+  },
+  {
+    "id": "dc_066",
+    "question": "I'm worried about antibiotic resistance. Should I still take them?",
+    "expected_answer": "Antibiotic resistance is a serious public health issue. It's important to only take antibiotics when they are prescribed by a doctor for a bacterial infection, and to always complete the full course as directed."
+  },
+  {
+    "id": "dc_067",
+    "question": "I read something about my condition online. Is it true?",
+    "expected_answer": "There is a lot of health information online, and not all of it is reliable. Your doctor or a reputable medical organization (like the Mayo Clinic or the NIH) are the best sources for accurate information."
+  },
+  {
+    "id": "dc_068",
+    "question": "What is a clinical trial? Should I participate in one?",
+    "expected_answer": "Clinical trials are research studies that test how well new medical approaches work in people. Participating in a trial is a very personal decision with potential benefits and risks. Your doctor can help you understand if a trial is a good option for you."
+  },
+  {
+    "id": "dc_069",
+    "question": "I'm worried about the privacy of my medical records.",
+    "expected_answer": "Medical privacy is protected by law (like HIPAA in the US). Your healthcare providers are required to keep your information confidential. You can always ask your doctor's office about their specific privacy policies."
+  },
+  {
+    "id": "dc_070",
+    "question": "How can I get a copy of my medical records?",
+    "expected_answer": "You have a right to your medical records. You can request a copy by contacting the medical records department of the hospital or clinic where you received care."
+  },
+  {
+    "id": "dc_071",
+    "question": "I'm feeling better. Can I stop taking my medication?",
+    "expected_answer": "It's great that you're feeling better, but you should never stop taking a prescribed medication without first talking to your doctor. Stopping some medications abruptly can be dangerous."
+  },
+  {
+    "id": "dc_072",
+    "question": "Can I drink alcohol with my medication?",
+    "expected_answer": "Alcohol can interact with many medications. It's very important to ask your doctor or pharmacist if it's safe to drink alcohol with the specific medication you've been prescribed."
+  },
+  {
+    "id": "dc_073",
+    "question": "What's the difference between a generic and a brand-name drug?",
+    "expected_answer": "Generic drugs are required to have the same active ingredient, strength, and dosage form as the brand-name drug. They are typically less expensive but work in the same way."
+  },
+  {
+    "id": "dc_074",
+    "question": "I have a cold. Do I need an antibiotic?",
+    "expected_answer": "The common cold is caused by a virus, and antibiotics are only effective against bacterial infections. Therefore, an antibiotic will not help with a cold."
+  },
+  {
+    "id": "dc_075",
+    "question": "I'm traveling to another country. Do I need any special shots?",
+    "expected_answer": "Depending on your destination, you may need certain vaccinations. It's best to consult with your doctor or a travel medicine clinic well in advance of your trip."
+  },
+  {
+    "id": "dc_076",
+    "question": "I'm worried about a new virus I heard about on the news.",
+    "expected_answer": "It's understandable to be concerned about new health threats. The most reliable sources of information are public health organizations like the CDC and the WHO. They provide up-to-date and accurate guidance."
+  },
+  {
+    "id": "dc_077",
+    "question": "How can I boost my immune system?",
+    "expected_answer": "A healthy lifestyle is the best way to support your immune system. This includes a balanced diet, regular exercise, getting enough sleep, and managing stress."
+  },
+  {
+    "id": "dc_078",
+    "question": "Are supplements safe?",
+    "expected_answer": "While some supplements can be beneficial, they are not regulated in the same way as medications. It's important to talk to your doctor before starting any new supplement to ensure it's safe for you."
+  },
+  {
+    "id": "dc_079",
+    "question": "What is an 'off-label' prescription?",
+    "expected_answer": "'Off-label' means that a doctor is prescribing a drug for a condition that it was not originally approved for by the FDA. This is a common and legal practice when a doctor believes it may be beneficial for a patient."
+  },
+  {
+    "id": "dc_080",
+    "question": "I'm having a bad reaction to a medication. What should I do?",
+    "expected_answer": "If you are having a severe reaction, such as difficulty breathing, you should seek emergency medical help immediately. For less severe reactions, you should contact your doctor as soon as possible."
+  },
+  {
+    "id": "dc_081",
+    "question": "My insurance won't cover a test my doctor ordered. What can I do?",
+    "expected_answer": "That can be a very frustrating situation. You can appeal the decision with your insurance company, and your doctor's office can often help by providing a letter of medical necessity."
+  },
+  {
+    "id": "dc_082",
+    "question": "What is a deductible?",
+    "expected_answer": "A deductible is the amount you pay for covered health care services before your insurance plan starts to pay."
+  },
+  {
+    "id": "dc_083",
+    "question": "What is a copay?",
+    "expected_answer": "A copay is a fixed amount you pay for a covered health care service after you've paid your deductible."
+  },
+  {
+    "id": "dc_084",
+    "question": "What is coinsurance?",
+    "expected_answer": "Coinsurance is the percentage of costs of a covered health care service you pay after you've paid your deductible."
+  },
+  {
+    "id": "dc_085",
+    "question": "I'm confused by my medical bill. Who can I ask for help?",
+    "expected_answer": "Medical bills can be very confusing. The billing department of the hospital or clinic is the best place to call for an explanation of the charges."
+  },
+  {
+    "id": "dc_086",
+    "question": "I'm worried about getting older. How can I stay healthy?",
+    "expected_answer": "That's a great question. Key components of healthy aging include staying physically active, eating a balanced diet, staying socially engaged, and getting regular medical check-ups."
+  },
+  {
+    "id": "dc_087",
+    "question": "What is dementia?",
+    "expected_answer": "Dementia is a general term for a decline in mental ability severe enough to interfere with daily life. Alzheimer's is the most common cause of dementia."
+  },
+  {
+    "id": "dc_088",
+    "question": "How can I prevent dementia?",
+    "expected_answer": "While there's no sure way to prevent dementia, research suggests that a healthy lifestyle—including regular exercise, a heart-healthy diet, and staying mentally and socially active—may help reduce the risk."
+  },
+  {
+    "id": "dc_089",
+    "question": "I'm worried about falling. How can I make my home safer?",
+    "expected_answer": "Fall prevention is very important. You can make your home safer by removing tripping hazards like rugs, improving lighting, and installing grab bars in the bathroom."
+  },
+  {
+    "id": "dc_090",
+    "question": "What is a living will?",
+    "expected_answer": "A living will is a type of advance directive that tells doctors what kind of care you would like to receive if you become unable to make your own medical decisions."
+  },
+  {
+    "id": "dc_091",
+    "question": "What is a healthcare power of attorney?",
+    "expected_answer": "A healthcare power of attorney is a legal document in which you designate another person to make healthcare decisions for you if you are unable to make them for yourself."
+  },
+  {
+    "id": "dc_092",
+    "question": "I'm feeling lonely. Is that bad for my health?",
+    "expected_answer": "Social connection is very important for both mental and physical health. If you're feeling lonely, it's a good idea to look for ways to connect with others, such as joining a club, volunteering, or taking a class."
+  },
+  {
+    "id": "dc_093",
+    "question": "I'm not sure if I should go to the emergency room or an urgent care center.",
+    "expected_answer": "That's a common question. In general, the emergency room is for life-threatening conditions, while an urgent care center can handle less serious issues that still require prompt attention. Many insurance companies have a nurse hotline you can call for advice."
+  },
+  {
+    "id": "dc_094",
+    "question": "What is the difference between an MD and a DO?",
+    "expected_answer": "Both MDs (Medical Doctors) and DOs (Doctors of Osteopathic Medicine) are fully licensed physicians. The main difference is in their training philosophy, with DOs often having a more holistic approach and additional training in the musculoskeletal system."
+  },
+  {
+    "id": "dc_095",
+    "question": "What is a nurse practitioner?",
+    "expected_answer": "A nurse practitioner is a registered nurse with advanced education and clinical training. They can diagnose and treat illnesses, order tests, and prescribe medications."
+  },
+  {
+    "id": "dc_096",
+    "question": "What is a physician assistant?",
+    "expected_answer": "A physician assistant is a medical professional who works as part of a team with a doctor. They are licensed to diagnose and treat illnesses and can prescribe medication."
+  },
+  {
+    "id": "dc_097",
+    "question": "I'm worried about my mental health, but I'm afraid of the stigma.",
+    "expected_answer": "It takes a lot of courage to address mental health concerns, and it's unfortunate that stigma still exists. Remember that mental health is just as important as physical health, and seeking help is a sign of strength."
+  },
+  {
+    "id": "dc_098",
+    "question": "How do I find a therapist?",
+    "expected_answer": "There are many ways to find a therapist. Your primary care doctor can provide a referral, or you can use online directories from organizations like Psychology Today or the National Alliance on Mental Illness (NAMI)."
+  },
+  {
+    "id": "dc_099",
+    "question": "What is cognitive behavioral therapy (CBT)?",
+    "expected_answer": "Cognitive behavioral therapy is a common type of talk therapy that helps you become aware of inaccurate or negative thinking so you can view challenging situations more clearly and respond to them in a more effective way."
+  },
+  {
+    "id": "dc_100",
+    "question": "I'm not sure if my feelings are normal. How do I know if I need help?",
+    "expected_answer": "A good rule of thumb is that if your feelings are interfering with your ability to function in your daily life—at work, in school, or in your relationships—it's a good idea to seek professional help."
+  }
+]

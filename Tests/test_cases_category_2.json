@@ -1,0 +1,502 @@
+[
+  {
+    "id": "sa_001",
+    "symptoms": "itching, skin rash, nodal skin eruptions",
+    "expected_disease": "Fungal infection"
+  },
+  {
+    "id": "sa_002",
+    "symptoms": "continuous sneezing, shivering, watering from eyes",
+    "expected_disease": "Allergy"
+  },
+  {
+    "id": "sa_003",
+    "symptoms": "stomach pain, acidity, ulcers on tongue, vomiting",
+    "expected_disease": "GERD"
+  },
+  {
+    "id": "sa_004",
+    "symptoms": "chills, vomiting, fatigue, weight loss, cough, high fever",
+    "expected_disease": "Tuberculosis"
+  },
+  {
+    "id": "sa_005",
+    "symptoms": "sunken eyes, dehydration, diarrhoea, vomiting",
+    "expected_disease": "Cholera"
+  },
+  {
+    "id": "sa_006",
+    "symptoms": "fatigue, weight gain, cold hands and feets, mood swings",
+    "expected_disease": "Hypothyroidism"
+  },
+  {
+    "id": "sa_007",
+    "symptoms": "patches in throat, headache, fever, body ache",
+    "expected_disease": "Chicken pox"
+  },
+  {
+    "id": "sa_008",
+    "symptoms": "joint pain, vomiting, fatigue, high fever, headache",
+    "expected_disease": "Dengue"
+  },
+  {
+    "id": "sa_009",
+    "symptoms": "fatigue, yellowish skin, dark urine, abdominal pain",
+    "expected_disease": "Jaundice"
+  },
+  {
+    "id": "sa_010",
+    "symptoms": "chills, sweating, headache, nausea, vomiting, diarrhoea",
+    "expected_disease": "Malaria"
+  },
+  {
+    "id": "sa_011",
+    "symptoms": "breathlessness, sweating, chest pain",
+    "expected_disease": "Heart attack"
+  },
+  {
+    "id": "sa_012",
+    "symptoms": "blister, red sore around nose, yellow crust",
+    "expected_disease": "Impetigo"
+  },
+  {
+    "id": "sa_013",
+    "symptoms": "irregular sugar level, increased appetite, frequent urination",
+    "expected_disease": "Diabetes"
+  },
+  {
+    "id": "sa_014",
+    "symptoms": "pain in anal region, bloody stool, irritation in anus",
+    "expected_disease": "Piles"
+  },
+  {
+    "id": "sa_015",
+    "symptoms": "runny nose, congestion, sinus pressure, headache",
+    "expected_disease": "Common Cold"
+  },
+  {
+    "id": "sa_016",
+    "symptoms": "burning urination, pain in lower abdomen, frequent urination",
+    "expected_disease": "Urinary tract infection"
+  },
+  {
+    "id": "sa_017",
+    "symptoms": "joint pain, stiffness, swelling, decreased range of motion",
+    "expected_disease": "Arthritis"
+  },
+  {
+    "id": "sa_018",
+    "symptoms": "wheezing, shortness of breath, chest tightness, coughing",
+    "expected_disease": "Asthma"
+  },
+  {
+    "id": "sa_019",
+    "symptoms": "persistent cough, coughing up blood, chest pain, weight loss",
+    "expected_disease": "Lung cancer"
+  },
+  {
+    "id": "sa_020",
+    "symptoms": "severe headache, stiff neck, fever, sensitivity to light",
+    "expected_disease": "Meningitis"
+  },
+  {
+    "id": "sa_021",
+    "symptoms": "abdominal cramps, bloating, gas, diarrhoea, constipation",
+    "expected_disease": "Irritable bowel syndrome (IBS)"
+  },
+  {
+    "id": "sa_022",
+    "symptoms": "memory loss, confusion, difficulty with language, poor judgment",
+    "expected_disease": "Alzheimer's disease"
+  },
+  {
+    "id": "sa_023",
+    "symptoms": "tremors, slow movement, stiffness, balance problems",
+    "expected_disease": "Parkinson's disease"
+  },
+  {
+    "id": "sa_024",
+    "symptoms": "numbness or weakness in limbs, vision problems, fatigue",
+    "expected_disease": "Multiple sclerosis"
+  },
+  {
+    "id": "sa_025",
+    "symptoms": "excessive thirst, frequent urination, unexplained weight loss, fatigue",
+    "expected_disease": "Diabetes"
+  },
+  {
+    "id": "sa_026",
+    "symptoms": "chest pain, shortness of breath, fatigue, swelling in legs",
+    "expected_disease": "Heart failure"
+  },
+  {
+    "id": "sa_027",
+    "symptoms": "jaundice, fatigue, abdominal pain, swelling in legs and ankles",
+    "expected_disease": "Cirrhosis"
+  },
+  {
+    "id": "sa_028",
+    "symptoms": "frequent infections, fatigue, pale skin, shortness of breath",
+    "expected_disease": "Leukemia"
+  },
+  {
+    "id": "sa_029",
+    "symptoms": "persistent sadness, loss of interest, changes in sleep or appetite",
+    "expected_disease": "Depression"
+  },
+  {
+    "id": "sa_030",
+    "symptoms": "excessive worry, restlessness, fatigue, difficulty concentrating",
+    "expected_disease": "Anxiety"
+  },
+  {
+    "id": "sa_031",
+    "symptoms": "hallucinations, delusions, disorganized speech, social withdrawal",
+    "expected_disease": "Schizophrenia"
+  },
+  {
+    "id": "sa_032",
+    "symptoms": "alternating periods of mania and depression",
+    "expected_disease": "Bipolar disorder"
+  },
+  {
+    "id": "sa_033",
+    "symptoms": "intrusive thoughts, compulsive behaviors",
+    "expected_disease": "Obsessive-compulsive disorder (OCD)"
+  },
+  {
+    "id": "sa_034",
+    "symptoms": "flashbacks, nightmares, severe anxiety after a traumatic event",
+    "expected_disease": "Post-traumatic stress disorder (PTSD)"
+  },
+  {
+    "id": "sa_035",
+    "symptoms": "difficulty paying attention, hyperactivity, impulsiveness",
+    "expected_disease": "Attention-deficit/hyperactivity disorder (ADHD)"
+  },
+  {
+    "id": "sa_036",
+    "symptoms": "difficulty with social interaction, restricted interests, repetitive behaviors",
+    "expected_disease": "Autism spectrum disorder"
+  },
+  {
+    "id": "sa_037",
+    "symptoms": "severe pain, swelling, and stiffness in a joint, often the big toe",
+    "expected_disease": "Gout"
+  },
+  {
+    "id": "sa_038",
+    "symptoms": "widespread muscle pain and tenderness, fatigue, sleep problems",
+    "expected_disease": "Fibromyalgia"
+  },
+  {
+    "id": "sa_039",
+    "symptoms": "butterfly-shaped rash on the face, joint pain, fatigue, fever",
+    "expected_disease": "Lupus"
+  },
+  {
+    "id": "sa_040",
+    "symptoms": "dry eyes, dry mouth, fatigue, joint pain",
+    "expected_disease": "Sjogren's syndrome"
+  },
+  {
+    "id": "sa_041",
+    "symptoms": "diarrhoea, abdominal pain, weight loss, fatigue",
+    "expected_disease": "Crohn's disease"
+  },
+  {
+    "id": "sa_042",
+    "symptoms": "inflammation and sores in the lining of the large intestine, bloody diarrhoea",
+    "expected_disease": "Ulcerative colitis"
+  },
+  {
+    "id": "sa_043",
+    "symptoms": "difficulty swallowing, heartburn, regurgitation of food",
+    "expected_disease": "Achalasia"
+  },
+  {
+    "id": "sa_044",
+    "symptoms": "abdominal pain, nausea, vomiting, fever",
+    "expected_disease": "Appendicitis"
+  },
+  {
+    "id": "sa_045",
+    "symptoms": "severe pain in the upper right abdomen, fever, nausea, vomiting",
+    "expected_disease": "Gallstones"
+  },
+  {
+    "id": "sa_046",
+    "symptoms": "upper abdominal pain that radiates to the back, fever, nausea, vomiting",
+    "expected_disease": "Pancreatitis"
+  },
+  {
+    "id": "sa_047",
+    "symptoms": "blood in the urine, pain in the side and back, fever, nausea, vomiting",
+    "expected_disease": "Kidney stones"
+  },
+  {
+    "id": "sa_048",
+    "symptoms": "swelling in the legs, fatigue, shortness of breath, foamy urine",
+    "expected_disease": "Nephrotic syndrome"
+  },
+  {
+    "id": "sa_049",
+    "symptoms": "high blood pressure, swelling in the face and hands, protein in the urine",
+    "expected_disease": "Preeclampsia"
+  },
+  {
+    "id": "sa_050",
+    "symptoms": "painful periods, pain during intercourse, heavy bleeding",
+    "expected_disease": "Endometriosis"
+  },
+  {
+    "id": "sa_051",
+    "symptoms": "irregular periods, excess hair growth, acne, weight gain",
+    "expected_disease": "Polycystic ovary syndrome (PCOS)"
+  },
+  {
+    "id": "sa_052",
+    "symptoms": "hot flashes, night sweats, vaginal dryness, mood swings",
+    "expected_disease": "Menopause"
+  },
+  {
+    "id": "sa_053",
+    "symptoms": "frequent urination, erectile dysfunction, weak urine stream",
+    "expected_disease": "Benign prostatic hyperplasia (BPH)"
+  },
+  {
+    "id": "sa_054",
+    "symptoms": "pain in the testicles, swelling, lump",
+    "expected_disease": "Testicular cancer"
+  },
+  {
+    "id": "sa_055",
+    "symptoms": "changes in a mole, new skin growth",
+    "expected_disease": "Melanoma"
+  },
+  {
+    "id": "sa_056",
+    "symptoms": "red, scaly patches on the skin, itching",
+    "expected_disease": "Psoriasis"
+  },
+  {
+    "id": "sa_057",
+    "symptoms": "itchy, red, and inflamed skin, blisters",
+    "expected_disease": "Eczema"
+  },
+  {
+    "id": "sa_058",
+    "symptoms": "hair loss in patches",
+    "expected_disease": "Alopecia areata"
+  },
+  {
+    "id": "sa_059",
+    "symptoms": "white patches on the skin",
+    "expected_disease": "Vitiligo"
+  },
+  {
+    "id": "sa_060",
+    "symptoms": "blurred vision, floaters, flashes of light",
+    "expected_disease": "Retinal detachment"
+  },
+  {
+    "id": "sa_061",
+    "symptoms": "cloudy vision, glare, halos around lights",
+    "expected_disease": "Cataracts"
+  },
+  {
+    "id": "sa_062",
+    "symptoms": "loss of central vision, distorted vision",
+    "expected_disease": "Macular degeneration"
+  },
+  {
+    "id": "sa_063",
+    "symptoms": "eye pain, redness, blurred vision, sensitivity to light",
+    "expected_disease": "Uveitis"
+  },
+  {
+    "id": "sa_064",
+    "symptoms": "ringing in the ears, hearing loss, dizziness",
+    "expected_disease": "Meniere's disease"
+  },
+  {
+    "id": "sa_065",
+    "symptoms": "ear pain, drainage from the ear, hearing loss",
+    "expected_disease": "Otitis media"
+  },
+  {
+    "id": "sa_066",
+    "symptoms": "vertigo, dizziness, nausea, vomiting",
+    "expected_disease": "Labyrinthitis"
+  },
+  {
+    "id": "sa_067",
+    "symptoms": "sore throat, fever, swollen lymph nodes",
+    "expected_disease": "Strep throat"
+  },
+  {
+    "id": "sa_068",
+    "symptoms": "hoarseness, sore throat, difficulty swallowing",
+    "expected_disease": "Laryngitis"
+  },
+  {
+    "id": "sa_069",
+    "symptoms": "cough, fever, chills, body aches",
+    "expected_disease": "Influenza"
+  },
+  {
+    "id": "sa_070",
+    "symptoms": "cough, fever, shortness of breath",
+    "expected_disease": "Pneumonia"
+  },
+  {
+    "id": "sa_071",
+    "symptoms": "coughing up blood, chest pain, weight loss",
+    "expected_disease": "Tuberculosis"
+  },
+  {
+    "id": "sa_072",
+    "symptoms": "shortness of breath, wheezing, chest tightness",
+    "expected_disease": "Chronic obstructive pulmonary disease (COPD)"
+  },
+  {
+    "id": "sa_073",
+    "symptoms": "sudden weakness or numbness on one side of the body, confusion",
+    "expected_disease": "Stroke"
+  },
+  {
+    "id": "sa_074",
+    "symptoms": "seizures, loss of consciousness",
+    "expected_disease": "Epilepsy"
+  },
+  {
+    "id": "sa_075",
+    "symptoms": "severe headache, nausea, vomiting, sensitivity to light and sound",
+    "expected_disease": "Migraine"
+  },
+  {
+    "id": "sa_076",
+    "symptoms": "headache that feels like a tight band around the head",
+    "expected_disease": "Tension headache"
+  },
+  {
+    "id": "sa_077",
+    "symptoms": "severe, one-sided headache, often around the eye",
+    "expected_disease": "Cluster headache"
+  },
+  {
+    "id": "sa_078",
+    "symptoms": "facial drooping, weakness on one side of the face",
+    "expected_disease": "Bell's palsy"
+  },
+  {
+    "id": "sa_079",
+    "symptoms": "pain, numbness, and tingling in the hand and arm",
+    "expected_disease": "Carpal tunnel syndrome"
+  },
+  {
+    "id": "sa_080",
+    "symptoms": "pain and stiffness in the lower back",
+    "expected_disease": "Herniated disk"
+  },
+  {
+    "id": "sa_081",
+    "symptoms": "pain that radiates down the back of the leg",
+    "expected_disease": "Sciatica"
+  },
+  {
+    "id": "sa_082",
+    "symptoms": "curving of the spine",
+    "expected_disease": "Scoliosis"
+  },
+  {
+    "id": "sa_083",
+    "symptoms": "loss of bone density, increased risk of fractures",
+    "expected_disease": "Osteoporosis"
+  },
+  {
+    "id": "sa_084",
+    "symptoms": "inflammation of the joints, pain, stiffness",
+    "expected_disease": "Rheumatoid arthritis"
+  },
+  {
+    "id": "sa_085",
+    "symptoms": "wear and tear of the joints, pain, stiffness",
+    "expected_disease": "Osteoarthritis"
+  },
+  {
+    "id": "sa_086",
+    "symptoms": "inflammation of the fluid-filled sacs that cushion the joints",
+    "expected_disease": "Bursitis"
+  },
+  {
+    "id": "sa_087",
+    "symptoms": "inflammation of a tendon",
+    "expected_disease": "Tendonitis"
+  },
+  {
+    "id": "sa_088",
+    "symptoms": "pain in the heel and arch of the foot",
+    "expected_disease": "Plantar fasciitis"
+  },
+  {
+    "id": "sa_089",
+    "symptoms": "pain and tenderness on the outside of the elbow",
+    "expected_disease": "Tennis elbow"
+  },
+  {
+    "id": "sa_090",
+    "symptoms": "pain and tenderness on the inside of the elbow",
+    "expected_disease": "Golfer's elbow"
+  },
+  {
+    "id": "sa_091",
+    "symptoms": "pain and stiffness in the shoulder",
+    "expected_disease": "Frozen shoulder"
+  },
+  {
+    "id": "sa_092",
+    "symptoms": "pain in the front of the knee",
+    "expected_disease": "Patellofemoral pain syndrome"
+  },
+  {
+    "id": "sa_093",
+    "symptoms": "pain on the outside of the knee",
+    "expected_disease": "Iliotibial band syndrome"
+  },
+  {
+    "id": "sa_094",
+    "symptoms": "pain in the shin bone",
+    "expected_disease": "Shin splints"
+  },
+  {
+    "id": "sa_095",
+    "symptoms": "pain in the Achilles tendon",
+    "expected_disease": "Achilles tendonitis"
+  },
+  {
+    "id": "sa_096",
+    "symptoms": "a break in a bone",
+    "expected_disease": "Fracture"
+  },
+  {
+    "id": "sa_097",
+    "symptoms": "a partial or complete separation of a joint",
+    "expected_disease": "Dislocation"
+  },
+  {
+    "id": "sa_098",
+    "symptoms": "a stretching or tearing of a ligament",
+    "expected_disease": "Sprain"
+  },
+  {
+    "id": "sa_099",
+    "symptoms": "a stretching or tearing of a muscle or tendon",
+    "expected_disease": "Strain"
+  },
+  {
+    "id": "sa_100",
+    "symptoms": "a bruise",
+    "expected_disease": "Contusion"
+  }
+]

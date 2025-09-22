@@ -1,0 +1,502 @@
+[
+  {
+    "id": "mk_001",
+    "question": "What is the primary function of the pancreas?",
+    "expected_answer": "The pancreas has two main functions: an exocrine function that helps in digestion and an endocrine function that regulates blood sugar."
+  },
+  {
+    "id": "mk_002",
+    "question": "Define hypertension.",
+    "expected_answer": "Hypertension, or high blood pressure, is a long-term medical condition in which the blood pressure in the arteries is persistently elevated."
+  },
+  {
+    "id": "mk_003",
+    "question": "What is the difference between a virus and a bacterium?",
+    "expected_answer": "Bacteria are living organisms that can reproduce on their own, while viruses are non-living infectious agents that require a host cell to replicate."
+  },
+  {
+    "id": "mk_004",
+    "question": "What is the role of hemoglobin in the blood?",
+    "expected_answer": "Hemoglobin is a protein in red blood cells that carries oxygen from the lungs to the rest of the body."
+  },
+  {
+    "id": "mk_005",
+    "question": "What is anaphylaxis?",
+    "expected_answer": "Anaphylaxis is a severe, potentially life-threatening allergic reaction that can occur within seconds or minutes of exposure to an allergen."
+  },
+  {
+    "id": "mk_006",
+    "question": "Describe the function of the kidneys.",
+    "expected_answer": "The kidneys are organs that filter waste products from the blood, maintain balanced electrolyte levels, and regulate blood pressure."
+  },
+  {
+    "id": "mk_007",
+    "question": "What is the difference between an antiseptic and a disinfectant?",
+    "expected_answer": "Antiseptics are used to kill microorganisms on the skin, while disinfectants are used to kill them on non-living surfaces."
+  },
+  {
+    "id": "mk_008",
+    "question": "What is cholesterol and why is it important?",
+    "expected_answer": "Cholesterol is a waxy substance found in the blood that is needed to build healthy cells, but high levels can lead to a risk of heart disease."
+  },
+  {
+    "id": "mk_009",
+    "question": "What is the purpose of a vaccine?",
+    "expected_answer": "A vaccine helps the body's immune system to recognize and fight off a specific pathogen, providing immunity against the disease it causes."
+  },
+  {
+    "id": "mk_010",
+    "question": "What is the difference between LDL and HDL cholesterol?",
+    "expected_answer": "LDL (Low-Density Lipoprotein) is often called 'bad' cholesterol because it can build up in arteries, while HDL (High-Density Lipoprotein) is 'good' cholesterol that helps remove LDL from the arteries."
+  },
+  {
+    "id": "mk_011",
+    "question": "What is the function of the thyroid gland?",
+    "expected_answer": "The thyroid gland produces hormones that regulate the body's metabolic rate as well as heart and digestive function, muscle control, brain development, and bone maintenance."
+  },
+  {
+    "id": "mk_012",
+    "question": "Define osteoporosis.",
+    "expected_answer": "Osteoporosis is a bone disease that occurs when the body loses too much bone, makes too little bone, or both, leading to an increased risk of fracture."
+  },
+  {
+    "id": "mk_013",
+    "question": "What is the difference between a CT scan and an MRI?",
+    "expected_answer": "A CT (Computed Tomography) scan uses X-rays to create detailed images of the body, while an MRI (Magnetic Resonance Imaging) uses a large magnet and radio waves."
+  },
+  {
+    "id": "mk_014",
+    "question": "What is the role of platelets in the blood?",
+    "expected_answer": "Platelets are small, colorless cell fragments in our blood that form clots and stop or prevent bleeding."
+  },
+  {
+    "id": "mk_015",
+    "question": "What is sepsis?",
+    "expected_answer": "Sepsis is a life-threatening condition that arises when the body's response to an infection damages its own tissues and organs."
+  },
+  {
+    "id": "mk_016",
+    "question": "Describe the function of the liver.",
+    "expected_answer": "The liver has many functions, including detoxifying chemicals, metabolizing drugs, and making proteins important for blood clotting."
+  },
+  {
+    "id": "mk_017",
+    "question": "What is the difference between a pandemic and an epidemic?",
+    "expected_answer": "An epidemic is a disease that affects a large number of people within a community, population, or region, while a pandemic is an epidemic that has spread over multiple countries or continents."
+  },
+  {
+    "id": "mk_018",
+    "question": "What is insulin and what does it do?",
+    "expected_answer": "Insulin is a hormone created by the pancreas that controls the amount of glucose in your bloodstream at any given moment."
+  },
+  {
+    "id": "mk_019",
+    "question": "What is the purpose of an antibiotic?",
+    "expected_answer": "An antibiotic is a type of antimicrobial substance active against bacteria. It is the most important type of antibacterial agent for fighting bacterial infections."
+  },
+  {
+    "id": "mk_020",
+    "question": "What is the difference between Type 1 and Type 2 diabetes?",
+    "expected_answer": "Type 1 diabetes is an autoimmune disease where the body does not produce insulin. Type 2 diabetes is a condition where the body either doesn't produce enough insulin or resists insulin."
+  },
+  {
+    "id": "mk_021",
+    "question": "What is the function of the gallbladder?",
+    "expected_answer": "The gallbladder stores and concentrates bile, a digestive enzyme produced by the liver."
+  },
+  {
+    "id": "mk_022",
+    "question": "Define arrhythmia.",
+    "expected_answer": "An arrhythmia is an irregular heartbeat, where the heart may beat too fast, too slow, or with an irregular rhythm."
+  },
+  {
+    "id": "mk_023",
+    "question": "What is the difference between a benign and a malignant tumor?",
+    "expected_answer": "A benign tumor is a non-cancerous growth that does not spread to other parts of the body, while a malignant tumor is cancerous and can invade nearby tissues and spread."
+  },
+  {
+    "id": "mk_024",
+    "question": "What is the role of white blood cells?",
+    "expected_answer": "White blood cells are a key part of the body's immune system. They help the body fight infection and other diseases."
+  },
+  {
+    "id": "mk_025",
+    "question": "What is a stroke?",
+    "expected_answer": "A stroke occurs when the blood supply to part of the brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients."
+  },
+  {
+    "id": "mk_026",
+    "question": "Describe the function of the spleen.",
+    "expected_answer": "The spleen acts as a filter for blood as part of the immune system. Old red blood cells are recycled in the spleen, and platelets and white blood cells are stored there."
+  },
+  {
+    "id": "mk_027",
+    "question": "What is the difference between a sprain and a strain?",
+    "expected_answer": "A sprain is a stretching or tearing of ligaments, the tough bands of fibrous tissue that connect two bones together in your joints. A strain is a stretching or tearing of muscle or tendon."
+  },
+  {
+    "id": "mk_028",
+    "question": "What is cortisol and what does it do?",
+    "expected_answer": "Cortisol is a steroid hormone, commonly known as the stress hormone, that is produced by the adrenal glands. It helps regulate metabolism, immune response, and stress."
+  },
+  {
+    "id": "mk_029",
+    "question": "What is the purpose of a placebo in a clinical trial?",
+    "expected_answer": "A placebo is a substance or treatment which is designed to have no therapeutic value. It is used in clinical trials to test the effectiveness of treatments."
+  },
+  {
+    "id": "mk_030",
+    "question": "What is the difference between an allergy and an intolerance?",
+    "expected_answer": "An allergy is an immune system response to a foreign substance that's not typically harmful to your body. An intolerance is a digestive system response."
+  },
+  {
+    "id": "mk_031",
+    "question": "What is the function of the adrenal glands?",
+    "expected_answer": "The adrenal glands are small glands located on top of each kidney. They produce hormones that you can't live without, including sex hormones and cortisol."
+  },
+  {
+    "id": "mk_032",
+    "question": "Define autoimmune disease.",
+    "expected_answer": "An autoimmune disease is a condition in which your immune system mistakenly attacks your body."
+  },
+  {
+    "id": "mk_033",
+    "question": "What is the difference between an ECG and an EEG?",
+    "expected_answer": "An ECG (Electrocardiogram) records the electrical signal from the heart to check for different heart conditions. An EEG (Electroencephalogram) records the electrical activity of the brain."
+  },
+  {
+    "id": "mk_034",
+    "question": "What is the role of plasma in the blood?",
+    "expected_answer": "Plasma is the largest component of your blood. It is a liquid that carries blood cells, proteins, and hormones throughout the body."
+  },
+  {
+    "id": "mk_035",
+    "question": "What is a concussion?",
+    "expected_answer": "A concussion is a traumatic brain injury that affects your brain function. Effects are usually temporary but can include headaches and problems with concentration, memory, balance and coordination."
+  },
+  {
+    "id": "mk_036",
+    "question": "Describe the function of the lymphatic system.",
+    "expected_answer": "The lymphatic system is a network of tissues and organs that help rid the body of toxins, waste and other unwanted materials."
+  },
+  {
+    "id": "mk_037",
+    "question": "What is metabolism?",
+    "expected_answer": "Metabolism is the chemical process that occurs within a living organism in order to maintain life, including the conversion of food to energy."
+  },
+  {
+    "id": "mk_038",
+    "question": "What is the function of the cerebellum?",
+    "expected_answer": "The cerebellum is a part of the brain that plays a vital role in coordinating voluntary movements, balance, and posture."
+  },
+  {
+    "id": "mk_039",
+    "question": "Define inflammation.",
+    "expected_answer": "Inflammation is the body's process of fighting against things that harm it, such as infections, injuries, and toxins, in an attempt to heal itself."
+  },
+  {
+    "id": "mk_040",
+    "question": "What is the difference between a psychiatrist and a psychologist?",
+    "expected_answer": "A psychiatrist is a medical doctor who can prescribe medication, while a psychologist primarily provides psychotherapy and cannot prescribe medication."
+  },
+  {
+    "id": "mk_041",
+    "question": "What is the function of the alveoli in the lungs?",
+    "expected_answer": "Alveoli are tiny air sacs in the lungs where the exchange of oxygen and carbon dioxide takes place."
+  },
+  {
+    "id": "mk_042",
+    "question": "What is a biopsy?",
+    "expected_answer": "A biopsy is a medical procedure that involves taking a small sample of tissue from the body so it can be examined under a microscope."
+  },
+  {
+    "id": "mk_043",
+    "question": "What is the role of the large intestine?",
+    "expected_answer": "The large intestine absorbs water and electrolytes from remaining indigestible food matter and then passes useless waste material from the body."
+  },
+  {
+    "id": "mk_044",
+    "question": "Define dehydration.",
+    "expected_answer": "Dehydration is a condition that occurs when the loss of body fluids, mostly water, exceeds the amount that is taken in."
+  },
+  {
+    "id": "mk_045",
+    "question": "What is the function of the pituitary gland?",
+    "expected_answer": "The pituitary gland is a small gland at the base of the brain that produces several hormones and controls the function of most other endocrine glands."
+  },
+  {
+    "id": "mk_046",
+    "question": "What is the difference between a chronic and an acute condition?",
+    "expected_answer": "An acute condition is a severe and sudden in onset, while a chronic condition is a long-developing syndrome."
+  },
+  {
+    "id": "mk_047",
+    "question": "What is the function of the myelin sheath?",
+    "expected_answer": "The myelin sheath is an insulating layer, or sheath that forms around nerves. It allows electrical impulses to transmit quickly and efficiently along the nerve cells."
+  },
+  {
+    "id": "mk_048",
+    "question": "What is a placebo effect?",
+    "expected_answer": "The placebo effect is a beneficial health outcome resulting from a person's anticipation that an intervention will help them."
+  },
+  {
+    "id": "mk_049",
+    "question": "What is the role of the small intestine?",
+    "expected_answer": "The small intestine is where most of the digestion and absorption of food takes place."
+  },
+  {
+    "id": "mk_050",
+    "question": "Define pathogen.",
+    "expected_answer": "A pathogen is a bacterium, virus, or other microorganism that can cause disease."
+  },
+  {
+    "id": "mk_051",
+    "question": "What is the function of the hypothalamus?",
+    "expected_answer": "The hypothalamus is a region of the brain that controls several important functions, including releasing hormones, regulating body temperature, and maintaining daily physiological cycles."
+  },
+  {
+    "id": "mk_052",
+    "question": "What is the difference between a symptom and a sign?",
+    "expected_answer": "A symptom is a subjective experience that a patient reports, like pain, while a sign is an objective indication of a medical fact or characteristic that may be detected by a physician."
+  },
+  {
+    "id": "mk_053",
+    "question": "What is the function of the diaphragm?",
+    "expected_answer": "The diaphragm is the primary muscle used in the process of inspiration, or inhalation. It is a dome-shaped sheet of muscle that is located at the base of the lungs."
+  },
+  {
+    "id": "mk_054",
+    "question": "What is a carcinogen?",
+    "expected_answer": "A carcinogen is any substance, radionuclide, or radiation that promotes carcinogenesis, the formation of cancer."
+  },
+  {
+    "id": "mk_055",
+    "question": "What is the role of the thalamus?",
+    "expected_answer": "The thalamus is a part of the brain that relays sensory information and acts as a center for pain perception."
+  },
+  {
+    "id": "mk_056",
+    "question": "What is the difference between palliative care and hospice care?",
+    "expected_answer": "Palliative care can begin at diagnosis and at the same time as treatment. Hospice care begins after treatment of the disease is stopped and when it is clear that the person is not going to survive the illness."
+  },
+  {
+    "id": "mk_057",
+    "question": "What is the function of the retina?",
+    "expected_answer": "The retina is the light-sensitive layer of tissue at the back of the eyeball. Images that come through the eye's lens are focused on the retina."
+  },
+  {
+    "id": "mk_058",
+    "question": "What is a genome?",
+    "expected_answer": "A genome is the complete set of genetic information in an organism. It provides all of the information the organism requires to function."
+  },
+  {
+    "id": "mk_059",
+    "question": "What is the role of the amygdala?",
+    "expected_answer": "The amygdala is a part of the brain that is involved in experiencing emotions, particularly fear and aggression."
+  },
+  {
+    "id": "mk_060",
+    "question": "What is the difference between a generic drug and a brand-name drug?",
+    "expected_answer": "A generic drug is a medication created to be the same as an already marketed brand-name drug in dosage form, safety, strength, route of administration, quality, performance characteristics, and intended use."
+  },
+  {
+    "id": "mk_061",
+    "question": "What is the function of the cochlea?",
+    "expected_answer": "The cochlea is the spiral cavity of the inner ear which produces nerve impulses in response to sound vibrations."
+  },
+  {
+    "id": "mk_062",
+    "question": "What is a hormone?",
+    "expected_answer": "A hormone is a chemical substance produced in the body that controls and regulates the activity of certain cells or organs."
+  },
+  {
+    "id": "mk_063",
+    "question": "What is the role of the hippocampus?",
+    "expected_answer": "The hippocampus is a part of the brain that is associated with memory, in particular long-term memory."
+  },
+  {
+    "id": "mk_064",
+    "question": "What is the difference between a communicable and a non-communicable disease?",
+    "expected_answer": "Communicable diseases are infectious diseases that spread from one person to another. Non-communicable diseases are chronic diseases that are not passed from person to person."
+  },
+  {
+    "id": "mk_065",
+    "question": "What is the function of the cornea?",
+    "expected_answer": "The cornea is the transparent part of the eye that covers the iris, pupil, and anterior chamber. It refracts light and accounts for approximately two-thirds of the eye's total optical power."
+  },
+  {
+    "id": "mk_066",
+    "question": "What is an enzyme?",
+    "expected_answer": "An enzyme is a substance that acts as a catalyst in living organisms, regulating the rate at which chemical reactions proceed without itself being altered in the process."
+  },
+  {
+    "id": "mk_067",
+    "question": "What is the role of the frontal lobe?",
+    "expected_answer": "The frontal lobe is the part of the brain that controls important cognitive skills in humans, such as emotional expression, problem solving, memory, language, judgment, and sexual behaviors."
+  },
+  {
+    "id": "mk_068",
+    "question": "What is the difference between a pandemic, epidemic, and endemic?",
+    "expected_answer": "Endemic is a disease that is consistently present but limited to a particular region. An epidemic is an unexpected increase in the number of disease cases in a specific geographical area. A pandemic is when a disease's growth is exponential and spreads across countries and continents."
+  },
+  {
+    "id": "mk_069",
+    "question": "What is the function of the iris?",
+    "expected_answer": "The iris is the colored part of the eye that controls the size of the pupil, thereby regulating the amount of light reaching the retina."
+  },
+  {
+    "id": "mk_070",
+    "question": "What is an antigen?",
+    "expected_answer": "An antigen is any substance that causes your immune system to produce antibodies against it."
+  },
+  {
+    "id": "mk_071",
+    "question": "What is the role of the temporal lobe?",
+    "expected_answer": "The temporal lobe is primarily responsible for interpreting sounds from the ears and plays a significant role in understanding and producing speech."
+  },
+  {
+    "id": "mk_072",
+    "question": "What is the difference between a general anesthetic and a local anesthetic?",
+    "expected_answer": "General anesthesia causes a loss of consciousness, while local anesthesia numbs a small, specific area of the body without affecting consciousness."
+  },
+  {
+    "id": "mk_073",
+    "question": "What is the function of the pupil?",
+    "expected_answer": "The pupil is the opening in the center of the iris that allows light to enter the eye so it can be focused on the retina to begin the process of sight."
+  },
+  {
+    "id": "mk_074",
+    "question": "What is an antibody?",
+    "expected_answer": "An antibody is a protein produced by the body's immune system when it detects harmful substances, called antigens."
+  },
+  {
+    "id": "mk_075",
+    "question": "What is the role of the parietal lobe?",
+    "expected_answer": "The parietal lobe is one of the four major lobes of the cerebral cortex in the brain of mammals. The parietal lobe is responsible for processing sensory information it receives from the outside world, mainly relating to touch, taste, and temperature."
+  },
+  {
+    "id": "mk_076",
+    "question": "What is the difference between a prognosis and a diagnosis?",
+    "expected_answer": "A diagnosis is the identification of the nature of an illness or other problem by examination of the symptoms. A prognosis is a forecast of the likely course of a disease or ailment."
+  },
+  {
+    "id": "mk_077",
+    "question": "What is the function of the lens of the eye?",
+    "expected_answer": "The lens is a transparent structure behind the iris that, along with the cornea, helps to refract light to be focused on the retina."
+  },
+  {
+    "id": "mk_078",
+    "question": "What is a cytokine?",
+    "expected_answer": "Cytokines are a broad and loose category of small proteins that are important in cell signaling. They are released by cells and affect the behavior of other cells."
+  },
+  {
+    "id": "mk_079",
+    "question": "What is the role of the occipital lobe?",
+    "expected_answer": "The occipital lobe is the visual processing center of the mammalian brain containing most of the anatomical region of the visual cortex."
+  },
+  {
+    "id": "mk_080",
+    "question": "What is the difference between a systemic and a localized infection?",
+    "expected_answer": "A localized infection is an infection that is limited to a specific location in the body. A systemic infection is an infection that affects the entire body."
+  },
+  {
+    "id": "mk_081",
+    "question": "What is the function of the optic nerve?",
+    "expected_answer": "The optic nerve is a bundle of more than 1 million nerve fibers that connects the retina with the brain. The optic nerve transmits sensory information for vision in the form of electrical impulses from the eye to the brain."
+  },
+  {
+    "id": "mk_082",
+    "question": "What is a prion?",
+    "expected_answer": "A prion is a type of protein that can trigger normal proteins in the brain to fold abnormally. Prion diseases can affect both humans and animals and are sometimes spread to humans by infected meat products."
+  },
+  {
+    "id": "mk_083",
+    "question": "What is the role of the brainstem?",
+    "expected_answer": "The brainstem is the posterior part of the brain, continuous with the spinal cord. It is responsible for regulating most of the body's unconscious actions, such as breathing, heart rate, and blood pressure."
+  },
+  {
+    "id": "mk_084",
+    "question": "What is the difference between a congenital and a genetic disorder?",
+    "expected_answer": "A congenital disorder is a medical condition that is present at or before birth. A genetic disorder is a health problem caused by one or more abnormalities in the genome."
+  },
+  {
+    "id": "mk_085",
+    "question": "What is the function of the vitreous humor?",
+    "expected_answer": "The vitreous humor is the clear gel that fills the space between the lens and the retina of the eyeball of humans and other vertebrates."
+  },
+  {
+    "id": "mk_086",
+    "question": "What is a nosocomial infection?",
+    "expected_answer": "A nosocomial infection is an infection that is acquired in a hospital or other health care facility."
+  },
+  {
+    "id": "mk_087",
+    "question": "What is the role of the cerebral cortex?",
+    "expected_answer": "The cerebral cortex is the outer layer of the cerebrum. It is composed of folded gray matter and playing an important role in consciousness."
+  },
+  {
+    "id": "mk_088",
+    "question": "What is the difference between a sign and a symptom?",
+    "expected_answer": "A sign is an objective finding as perceived by an examiner, such as a fever or a rash. A symptom is a subjective experience reported by the patient, such as pain or dizziness."
+  },
+  {
+    "id": "mk_089",
+    "question": "What is the function of the aqueous humor?",
+    "expected_answer": "The aqueous humor is a transparent water-like fluid similar to plasma, but containing low protein concentrations. It is secreted from the ciliary body, a structure supporting the lens."
+  },
+  {
+    "id": "mk_090",
+    "question": "What is a zoonotic disease?",
+    "expected_answer": "A zoonotic disease is an infectious disease that is transmitted between species from animals to humans (or from humans to animals)."
+  },
+  {
+    "id": "mk_091",
+    "question": "What is the role of the meninges?",
+    "expected_answer": "The meninges are the three membranes that envelop the brain and spinal cord. In mammals, the meninges are the dura mater, the arachnoid mater, and the pia mater."
+  },
+  {
+    "id": "mk_092",
+    "question": "What is the difference between a pandemic, an epidemic, and an outbreak?",
+    "expected_answer": "An outbreak is a sudden increase in occurrences of a disease in a particular time and place. It may affect a small and localized group or impact thousands of people across an entire continent. An epidemic is a disease that affects a large number of people within a community, population, or region. A pandemic is an epidemic that has spread over multiple countries or continents."
+  },
+  {
+    "id": "mk_093",
+    "question": "What is the function of cerebrospinal fluid?",
+    "expected_answer": "Cerebrospinal fluid (CSF) is a clear, colorless body fluid found in the brain and spinal cord. It acts as a cushion or buffer for the brain, providing basic mechanical and immunological protection to the brain inside the skull."
+  },
+  {
+    "id": "mk_094",
+    "question": "What is a vector in medicine?",
+    "expected_answer": "In medicine, a vector is an organism that does not cause disease itself but which spreads infection by conveying pathogens from one host to another."
+  },
+  {
+    "id": "mk_095",
+    "question": "What is the role of the blood-brain barrier?",
+    "expected_answer": "The blood-brain barrier is a highly selective semipermeable border of endothelial cells that prevents solutes in the circulating blood from non-selectively crossing into the extracellular fluid of the central nervous system where neurons reside."
+  },
+  {
+    "id": "mk_096",
+    "question": "What is the difference between a virus and a prion?",
+    "expected_answer": "A virus is a small infectious agent that replicates only inside the living cells of other organisms. A prion is an infectious agent composed entirely of protein material, called PrP (short for prion protein), that can fold in multiple, structurally distinct ways, at least one of which is transmissible to other prion proteins, leading to disease in a manner that is epidemiologically comparable to the spread of viral infection."
+  },
+  {
+    "id": "mk_097",
+    "question": "What is the function of the glial cells?",
+    "expected_answer": "Glial cells, also called neuroglia or glia, are non-neuronal cells in the central nervous system (brain and spinal cord) and the peripheral nervous system that do not produce electrical impulses. They maintain homeostasis, form myelin, and provide support and protection for neurons."
+  },
+  {
+    "id": "mk_098",
+    "question": "What is a teratogen?",
+    "expected_answer": "A teratogen is an agent, which can be a drug, a chemical, or a virus, that causes a malformation of an embryo."
+  },
+  {
+    "id": "mk_099",
+    "question": "What is the role of neurotransmitters?",
+    "expected_answer": "Neurotransmitters are chemical messengers that transmit a signal from a neuron across the synapse to a target cell, which can be a different neuron, muscle cell, or gland cell."
+  },
+  {
+    "id": "mk_100",
+    "question": "What is the difference between a benign and a malignant neoplasm?",
+    "expected_answer": "A benign neoplasm is a non-cancerous tumor that does not spread to other parts of the body. A malignant neoplasm is a cancerous tumor that can invade nearby tissues and spread to other parts of the body."
+  }
+]
