@@ -1,0 +1,13 @@
+flask
+flask-cors
+python-dotenv
+werkzeug
+langchain
+langgraph
+langchain-ollama
+langchain-google-genai
+pandas
+faiss-cpu
+langchain-text-splitters
+requests
+Pillow
